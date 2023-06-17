@@ -4,12 +4,12 @@ function App() {
   return (
     <div className="App">
       <div className="grid">
-        <div className="box-green"></div>
-        <div className="box-blue"></div>
-        <div className="box-pink"></div>
-        <div className="box-orange"></div>
-        <div className="box-teal"></div>
-        <div className="box-grey"></div>
+        <div className="box box-green"></div>
+        <div className="box box-blue"></div>
+        <div className="box box-orange"></div>
+        <div className="box box-teal"></div>
+        <div className="box box-pink"></div>
+        <div className="box box-violet"></div>
       </div>
     </div>
   )

@@ -1,0 +1,14 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  
+}
+
+.box-green {
+  background-color: aquamarine;
+  border-radius: 10px;
+  height: 100px;
+  width: 100px;
+}
+
+.box-blue
